@@ -6,5 +6,5 @@ CXX_FLAGS =   -std=c++0x
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/ramona/Documents/Udacity_ND/SelfDrivingCars/term2/Proj1/ExtendedKF/include 
+CXX_INCLUDES = 
 
